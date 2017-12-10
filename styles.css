@@ -1,0 +1,19 @@
+body {
+  margin: 10px;
+}
+
+a {
+  color: black;
+}
+
+.container{
+  background-color: #3c6ffc;
+}
+
+.first-line {
+  padding-top: 50px;
+}
+
+#rivals {
+  list-style-type: none
+}
